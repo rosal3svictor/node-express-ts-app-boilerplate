@@ -3,10 +3,10 @@
     /* Visit https://aka.ms/tsconfig to read more about this file */
 
     /* Language and Environment */
-    "target": "ES2016",
+    "target": "ESNext",
 
     /* Modules */
-    "module": "CommonJS",
+    "module": "NodeNext",
     "rootDir": "./src",
     "baseUrl": "./src",
     "paths": {
